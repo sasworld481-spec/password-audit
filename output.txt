@@ -1,0 +1,17 @@
+PASSWORD (masked)      SCORE RATING    ISSUES
+------------------------------------------------------------------------------
+p******d                  10 WEAK      uses fewer than 3 character types; appears on common-password list
+1****6                     0 WEAK      shorter than 8 characters; uses fewer than 3 character types; digits only
+T*********3               80 STRONG    
+c***********************e    55 MODERATE  uses fewer than 3 character types
+a****1                    20 WEAK      shorter than 8 characters; uses fewer than 3 character types; repeats a character 3+ times in a row
+X**************w         100 STRONG    
+a***n                     10 WEAK      shorter than 8 characters; uses fewer than 3 character types; appears on common-password list
+S********4                65 MODERATE  
+q****y                    10 WEAK      shorter than 8 characters; uses fewer than 3 character types; appears on common-password list
+N**********s              90 STRONG    
+1******1                   0 WEAK      uses fewer than 3 character types; repeats a character 3+ times in a row; digits only
+H************9            90 STRONG    
+
+Total passwords: 12
+Weak: 6, Moderate: 2, Strong: 4
